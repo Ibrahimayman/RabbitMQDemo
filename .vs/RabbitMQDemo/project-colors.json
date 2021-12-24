@@ -40,7 +40,22 @@
       "ProjectGuid": "0796321a-e7ee-4762-8d39-d41e811ecf33",
       "DisplayName": "ExToExDemo",
       "ColorIndex": 6
+    },
+    "1643ab4f-8792-4f59-aa4d-6a9f6975ef47": {
+      "ProjectGuid": "1643ab4f-8792-4f59-aa4d-6a9f6975ef47",
+      "DisplayName": "AlternateDemo",
+      "ColorIndex": 7
+    },
+    "058ca982-fadf-44eb-8e37-40c87e5bce32": {
+      "ProjectGuid": "058ca982-fadf-44eb-8e37-40c87e5bce32",
+      "DisplayName": "PushPullDemo",
+      "ColorIndex": 8
+    },
+    "d4d58102-9146-46d3-a225-4d3e39376338": {
+      "ProjectGuid": "d4d58102-9146-46d3-a225-4d3e39376338",
+      "DisplayName": "WorkerDemo",
+      "ColorIndex": 9
     }
   },
-  "NextColorIndex": 7
+  "NextColorIndex": 10
 }
